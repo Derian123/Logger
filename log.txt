@@ -1,0 +1,1 @@
+[h, a, p, p, y, <Key.space:  >, n, o, w, <Key.shift_r: <60>>]
